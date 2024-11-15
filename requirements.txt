@@ -1,0 +1,5 @@
+Flask
+ell-ai
+openai
+anthropic
+python-dotenv

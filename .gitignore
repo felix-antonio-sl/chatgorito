@@ -1,0 +1,90 @@
+# Archivos de entorno
+.env
+.env.*
+
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs y editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de dependencias
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Archivos de pruebas
+.coverage
+.tox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Archivos estáticos y de compilación
+static/css/*.css
+static/js/*.js
+static/images/
+
+# Archivos de configuración de Flask
+instance/
+*.sqlite3
+
+# Otros archivos temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Archivos generados por herramientas de empaquetado
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Archivos de despliegue
+*.pem
+*.key
+
+# Archivos de caché
+.cache/
+.webassets-cache
+
+# Archivos de configuración de Python
+.python-version
+
+# Archivos de configuración de el-ai (si aplica)
+ell_storage/
+
+# Archivos de documentación generada
+docs/_build/
+
+# Archivos de Docker (si utilizas Docker)
+Dockerfile
+docker-compose.yml
+
+# base de datos
+*.db

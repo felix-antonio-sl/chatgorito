@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+    <h1 class="mt-5">Chat con el Asistente</h1>
+    <div class="chat-box border p-3 mb-3" style="height: 400px; overflow-y: scroll;">
+        {% for message in conversation %}
+            {% if message['sender'] == 'User' %}
+                <div class="user-message mb-2">
+                    <strong>Tú:</strong> {{ message['message'] }}
+                </div>
+            {% else %}
+                <div class="assistant-message mb-2">
+                    <strong>Asistente:</strong> {{ message['message'] }}
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+    <form method="post" action="{{ url_for('chat') }}">
+        <div class="mb-3">
+            <input type="text" name="user_input" class="form-control" placeholder="Escribe tu mensaje aquí..." autofocus required>
+        </div>
+        <button type="submit" class="btn btn-primary">Enviar</button>
+        <a href="{{ url_for('reset') }}" class="btn btn-secondary">Reiniciar Conversación</a>
+    </form>
+</div>
+{% endblock %}

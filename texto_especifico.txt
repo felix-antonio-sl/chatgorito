@@ -1,0 +1,9 @@
+[tema_especifico]: Inteligencia Artificial
+
+La Inteligencia Artificial (IA) es la simulación de procesos de inteligencia humana por parte de máquinas, especialmente sistemas informáticos. Aplicaciones específicas de la IA incluyen sistemas expertos, procesamiento del lenguaje natural, reconocimiento de voz y visión artificial.
+
+Conceptos Clave:
+- Aprendizaje Automático
+- Redes Neuronales
+- Aprendizaje Profundo
+- Procesamiento del Lenguaje Natural
