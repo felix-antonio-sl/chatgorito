@@ -17,9 +17,9 @@ with open('texto_especifico.txt', 'r', encoding='utf-8') as f:
     knowledge_base = f.read()
 
 # Definir el chatbot LMP usando ell
-@ell.simple(model='gpt-4o-mini')
+@ell.simple(model='gpt-4o')
 def chatbot(conversation):
-    """Eres un asistente experto en Inteligencia Artificial. Utiliza la base de conocimiento proporcionada para responder preguntas con precisión."""
+    """Eres un asistente experto en sobre el instructivo del CONCURSO VINCULACIÓN COMUNIDAD del Gobierno regional de Ñuble."""
     # Combinar la conversación en una cadena de texto
     conversation_text = "\n".join([f"{msg['sender']}: {msg['message']}" for msg in conversation])
     return f"{conversation_text}\n\nBasado en la conversación anterior y utilizando la siguiente base de conocimiento:\n{knowledge_base}\n\nProporciona una respuesta adecuada."

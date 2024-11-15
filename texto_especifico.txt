@@ -1,9 +1,559 @@
-[tema_especifico]: Inteligencia Artificial
-
-La Inteligencia Artificial (IA) es la simulación de procesos de inteligencia humana por parte de máquinas, especialmente sistemas informáticos. Aplicaciones específicas de la IA incluyen sistemas expertos, procesamiento del lenguaje natural, reconocimiento de voz y visión artificial.
-
-Conceptos Clave:
-- Aprendizaje Automático
-- Redes Neuronales
-- Aprendizaje Profundo
-- Procesamiento del Lenguaje Natural
+INSTRUCTIVO GENERAL CONCURSO VINCULACIÓN CON LA COMUNIDAD 8% 2024
+INTRODUCCIÓN
+	La administración de la región de Ñuble está radicada en el Gobierno Regional, que tendrá por objeto el desarrollo social, cultural y económico de ella, siendo el encargado de  diseñar, elaborar y aprobar políticas, planes, programas y proyectos de desarrollo de la región en el ámbito de sus competencias, los que deberán ajustarse al presupuesto de la Nación; a la estrategia regional de desarrollo y a los instrumentos de planificación comunal, en coherencia con las políticas públicas nacionales, coordinación, unidad de acción, eficiencia y eficacia, evitando la duplicidad o interferencia de funciones con otros órganos de la Administración del Estado, contribuyendo así con ello al desarrollo regional participativo y territorialmente integrado.
+	De esta manera, las políticas públicas y los fondos del  FNDR (Fondo Nacional de Desarrollo Regional), que permiten tomar acciones que vayan en beneficio de la comunidad, de manera participativa, directa y transparente, logrando que las Municipalidades, otras entidades públicas, instituciones privadas sin fines de lucro, organizaciones de la sociedad civil y  organizaciones comunitarias privadas sin fines de lucro, accedan a través de este concurso al financiamiento de actividades y/o programas, que generen espacios de integración e inclusión de los habitantes de la Región de Ñuble, promoviendo iniciativas relacionadas con lo contemplado en la Ley de presupuesto N°21.640 del  año 2024 y que, consideren el desarrollo regional, provincial, comunal y local.
+OBJETIVOS DEL CONCURSO
+	OBJETIVO GENERAL
+		Promover iniciativas que favorezcan a los habitantes de la Región de Ñuble a través de actividades y/o programas sociales, dirigidos a mejorar su calidad de vida, contribuyendo con el desarrollo integral de la región, sus provincias y comunas, con énfasis en propuestas inclusivas y con perspectiva de género.
+	OBJETIVOS ESPECÍFICOS
+		Potenciar la interrelación de la cultura, el patrimonio y su entorno, a través de la promoción y el rescate de las tradiciones.
+		Fomentar espacios de integración e inclusión social a través de acciones que permitan generar vínculos entre organizaciones y la comunidad.
+		Fomentar la actividad física en cualquier ámbito del deporte, con prácticas de vida saludable e inclusiva, para mejorar la calidad de vida de las personas.
+		Fomentar iniciativas que incrementen el empoderamiento y liderazgo femenino en los distintos aspectos de desarrollo social.
+		Promover iniciativas que fomenten la tenencia responsable de mascotas.
+		Promover iniciativas que fomenten el cuidado, la protección del medio ambiente.
+		Potenciar iniciativas que mejoren las condiciones biopsicosociales de los adultos mayores con el propósito de conseguir un envejecimiento activo y saludable.
+		Potenciar iniciativas de prevención y seguridad ciudadana.
+		Promover estilos de vida saludable, protección integral y restitución de derechos de niños, niñas y adolescentes de nuestra región.
+		Potenciar la interrelación de la cultura, el patrimonio y su entorno, a través de la promoción y el rescate de las tradiciones.
+MARCO LEGAL
+	De acuerdo a la glosa 03, subtitulo 24 del programa 02 “Programa de inversión regional de la partida 31, Gobiernos Regionales de la Ley de Presupuesto del Sector Público N° 21.640, año 2024, La oferta programática de los gobiernos regionales del presupuesto de inversión respectivo (subtítulo 24) se regirán por las siguientes disposiciones: La oferta programática estará sujeta al Sistema de Evaluación y Monitoreo del Ministerio de Desarrollo Social y Familia y de la Dirección de Presupuestos. Se exceptuarán del proceso de evaluación ex ante los programas en ejecución de los gobiernos regionales, incluyendo las subvenciones asociadas al Concurso de Vinculación con la Comunidad 8%.
+	En el ejercicio de esta facultad, cada gobierno regional deberá respetar los principios de coherencia con las políticas públicas nacionales, coordinación, unidad de acción, eficiencia y eficacia, evitando la duplicidad o interferencia de funciones con otros órganos de la Administración del Estado.
+	Asimismo, estos recursos podrán ser ejecutados por instituciones privadas sin fines de lucro, municipalidades, otras entidades públicas y organismos del gobierno central.
+	Concurso de Vinculación con la Comunidad 8%:
+		Los gobiernos regionales podrán destinar hasta un 8% del total de sus recursos del programa de inversión regional para subvencionar las siguientes actividades:
+			culturales,
+			deportivas y del programa Elige Vivir Sano,
+			de seguridad ciudadana,
+			de participación de niños, niñas, adolescentes y jóvenes de acuerdo a lo establecido en el artículo N°6, letra p) de la ley N° 21.302,
+			de carácter social, incluyendo programas y actividades para la atención de personas discapacitadas con dependencia severa, y de prevención y rehabilitación de drogas,
+			de atención de adultos mayores e integración y promoción del envejecimiento activo,
+			de protección del medioambiente y de educación ambiental, y
+			asociados con adopción, rescate, atención y tratamiento veterinario, y gestión de residuos de animales.
+		Asimismo, con estos recursos podrán entregar subsidios para el funcionamiento de establecimientos de larga estadía para adultos mayores, residencias familiares para niños, niñas, adolescentes y/o jóvenes del Servicio Nacional de Protección Especializada a la Niñez y Adolescencia, teatros municipales o regionales y/o monumentos históricos con atención a público, que operen en la región.
+		Estas actividades podrán ser ejecutadas por municipalidades, otras entidades públicas, instituciones privadas sin fines de lucro, organizaciones de la sociedad civil y organizaciones comunitarias sin fines de lucro.
+		Asimismo, se podrá asignar hasta un 10% de los recursos de este programa para financiar, previo acuerdo del Consejo Regional, mediante asignaciones directas actividades asociadas con casos excepcionales y emergentes, como por ejemplo deportistas destacados.
+		De esta manera las normas legales y reglamentarias que contemplan el marco normativo de este concurso son las siguientes:
+			Ley N°19.175, Orgánica Constitucional sobre Gobierno y Administración Regional.
+			Ley N°19.880, de Procedimientos Administrativos que rigen los Actos de los Órganos de la Administración del Estado.
+			Ley N°18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+			Ley N° 21.640, del Presupuesto del Sector Público del año 2024.
+			Certificado del Consejo Regional de Ñuble N°835/2023 de Fecha 21 de diciembre de 2023, que aprueba Presupuesto del Programa de Inversión año 2024 del Gobierno Regional de Ñuble, de acuerdo con la Ley de Presupuesto N° 21.640, por un monto de  $77.140.691 (Setenta y siete mil ciento cuarenta millones seiscientos noventa y un mil pesos).
+			Resolución N°30 del 11 de marzo de 2015, de la Contraloría General de la República.
+			Resolución N°07 de la Contraloría General de República de fecha 26 de marzo de 2019.
+			Circular 20 de fecha 11 de agosto 2023, Ministerio de Hacienda.
+			Ley N°19.862, Registro de Colaboradores del Estado y Municipalidades.
+			Ley N°19.886, Ley de Bases Sobre Contratos Administrativos de Suministro y Prestación de Servicios.
+			Ley N°19.418, Sobre Juntas de Vecinos y demás Organizaciones Comunitarias.
+			Ley N°19.253, Establece Normas Sobre Protección, Fomento y Desarrollo de los Indígenas, y crea la Corporación Nacional de Desarrollo Indígena.
+			Ley N° 19.712, de Deporte.
+			Plan Nacional de Seguridad 2022-2024.
+			Ley N°19.300, de Bases Generales del Medio Ambiente.
+			Ley N°21.015, Inclusión Laboral de Personas en Situación de Discapacidad.
+			Estrategia Regional de Desarrollo Región de Ñuble 2020-2028.
+			Política Nacional de Actividad Física y Deporte 2016-2025.
+			Ley 21.302, Crea el Servicio Nacional de Protección Especializada a la Niñez y Adolescencia y modifica normas legales que indica.
+DE LA PARTICIPACIÓN Y POSTULACIÓN
+	Podrán participar en esta convocatoria las municipalidades, instituciones privadas sin fines de lucro, organizaciones de la sociedad civil y organizaciones comunitarias sin fines de lucro, que al momento de la postulación tengan a lo menos 2 años de antigüedad, contados desde su constitución y que demuestren experiencia en el área de ejecución del convenio.
+	Instituciones Privadas;
+		Son todas aquellas instituciones privadas sin fines de lucro, organizaciones de la sociedad civil y organizaciones comunitarias sin fines de lucro.
+		Las organizaciones privadas sin fines de lucro podrán postular solo 1 iniciativa de los 7 fondos del concurso.
+	Instituciones públicas;
+		Son todas las municipalidades de la región de Ñuble.
+	DE LOS RECURSOS DISPONIBLES Y SU DISTRIBUCIÓN
+		El monto total disponible para el Concurso de Vinculación con la Comunidad 8% 2024, corresponde a la cantidad de $ 4.200.000.000.000 cuatro mil doscientos millones de pesos.
+		Los cuáles serán distribuidos en dos concursos:
+			Concurso de Vinculación con la Comunidad 8% 2024 Privados Organización de Base: 3.700.000.000.000 pesos
+			Concurso de Vinculación con la Comunidad 8% 2024 Público Municipalidades: 500.000.000.000 Pesos
+		Los recursos serán distribuidos equitativamente en la Región, entre las iniciativas que superen la etapa de admisibilidad y que hayan obtenido el puntaje para adjudicar en la revisión técnica.
+		En el caso de que las iniciativas recomendadas técnicamente para ser financiadas superen el marco presupuestario a distribuir, el gobierno regional queda facultado para aumentar el puntaje de corte de la pauta de evaluación.
+DE LOS DE FONDOS DISPONIBLES PARA EL “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024”.
+	Los Fondos disponibles para el Concurso de Vinculación con la Comunidad 8% 2024 serán los siguientes:
+		FONDO DE CULTURA
+			Este fondo está destinado a financiar;
+				Actividades y/o programas culturales que aborden el desarrollo de la identidad local, comunal, provincial y regional.
+		FONDO SOCIAL
+			Este fondo está destinado a financiar;
+				Actividades y/o programas que aborden materias de carácter social que afecten a la comunidad y que promuevan su vinculación activa, incluyendo acciones relacionadas con la inclusión, intervención y desarrollo de las personas.
+		FONDO SEGURIDAD CIUDADANA
+			Este fondo está destinado a financiar;
+				Iniciativas y/o programas que generen recuperación y mayor ocupación del espacio público, propiciando una relación de cooperación entre los vecinos, además de iniciativas de prevención del delito y de prevención de emergencias que afecten la seguridad de las personas.
+		FONDO EQUIDAD DE GÉNERO
+			Este fondo está destinado a financiar;
+				Actividades y/o programas que disminuyan las brechas y violencia de género.
+				Actividades y/o programas que contribuyan a la autonomía de la mujer en los distintos ámbitos del desarrollo, ya sea social, laboral o económico.
+				Actividades y/o programas que promuevan la asociatividad, liderazgo femenino, corresponsabilidad y empoderamiento.
+				Actividades y/o programas que promuevan y contribuyan a la disminución de las distintas discriminaciones que puedan vivir las personas LGBTI+ en los distintos ámbitos de desarrollo y permitan mejorar las condiciones de vida de dicha población.
+		FONDO DE DEPORTE
+			Este fondo está destinado a financiar;
+				Actividades y/o programas que aborden temáticas de carácter deportivo, formativo, recreativo, e inclusivo.
+				Actividades y/o programas que apoyen competencias provinciales, regionales, nacionales e Internacionales.
+		FONDO ADULTO MAYOR
+			Este fondo está destinado a financiar;
+				Actividades y/o programas que fomenten la participación de adultos mayores en actividades de carácter social, deportivo y cultural, fortaleciendo sus habilidades a través del envejecimiento activo, con el fin de mejorar su bienestar físico, social y cognitivo.
+				Actividades y/o programas que apoyen la vida diaria de los adultos mayores con dependencia moderada y/o severa, buscando el resguardo de su autonomía, dignidad, auto cuidado y fortaleciendo su auto valencia con atenciones integrales.
+		FONDO DE MEDIO AMBIENTE
+			Este fondo está destinado a financiar;
+				Actividades y/o programas que protejan el medioambiente y promuevan la educación ambiental.
+				Actividades y/o programas que mantengan parques, áreas verdes y/o jardines botánicos.
+				Actividades y/o programas de operación de instalaciones para el tratamiento adecuado de los residuos sólidos domiciliarios e iniciativas de reciclaje y valorización de residuos.
+				Actividades y/o programas de adopción, rescate, atención y tratamiento veterinario, y de gestión de residuos de animales.
+		Nota: Las organizaciones privadas sin fines de lucro podrán postular solo 1 iniciativa de los 7 fondos disponibles.
+DE LOS REQUISITOS PARA LA ADMISIBILIDAD
+	INSTITUCIONES PRIVADAS
+		Toda iniciativa postulada debe presentar obligatoriamente los documentos que se exigen en éste instructivo, los cuales deberán ser ingresados en la plataforma de postulación dispuesta para el concurso, en formato PDF y/o JPG.
+		Los documentos a presentar por las organizaciones privadas sin fines de lucro al momento del ingreso de la iniciativa, para poder obtener el visto bueno sobre su admisibilidad al concurso vinculación con la comunidad 8% 2024 son:
+			Carta de solicitud de los recursos dirigida al Gobernador Regional
+			Carta de aceptación de términos y condiciones del Concurso
+			Fotocopia del RUT de la Institución (SII).
+			Fotocopia de la Cédula de Identidad del Representante Legal por ambos lados.
+			Carta de presentación y experiencia de la organización (Organizaciones privadas sin fines de lucro)
+			Certificado de Directorio Vigente, el cual debe ser emitido por el Registro Civil o la entidad correspondiente. Estos certificados deben estar fechados como máximo 30 días antes de la fecha de postulación. En el caso de Corporaciones, Fundaciones y ONG: Copia autorizada ante notario público de la escritura de constitución, copia del extracto de publicación del Decreto del Ministerio de Justicia que concedió la personalidad jurídica y certificado de vigencia emitido por el Ministerio de Justicia o el que corresponda.
+			Certificado de Inscripción en el Registro Único de Personas Jurídicas Receptoras de Fondos Públicos, actualizado con directorio vigente (Página web: www.registros19862.cl).
+			Fotocopia o pantallazo de libreta de ahorro, cartola o certificado emitido por la entidad bancaria que indique claramente el número y tipo de cuenta de la Institución postulante, es responsabilidad de la organización verificar vigencia de la cuenta bancaria (No se acepta fotocopia de la tarjeta bancaria).
+			Carta de apoyo a la iniciativa y autorización de uso de espacio público, solo en el caso de que la iniciativa considere intervención del espacio público.
+			Carta de compromiso de prevención de la violencia, consumo de drogas y de alcohol en recintos que ejecuten actividades con recursos obtenidos a través del concurso (obligatorio para todos los fondos)
+			Declaración jurada letra b y c “DE LAS RESTRICCIONES DEL FONDO Y LOS GASTOS NO FINANCIABLES”, a excepción de las Asociaciones de municipalidades.
+			Cotizaciones (Equipamiento, gestión y producción, Difusión)
+			Formulario de presentación de la iniciativa incorpora nombre del formulador, correo electrónico y su vínculo con la organización postulante
+		Nota: Formatos de anexos editables en la página web del Gobierno Regional https://www.goredenuble.cl/ “Concurso Vinculación con la Comunidad 8% 2024
+	INSTITUCIONES PÚBLICAS MUNICIPALIDADES
+		Toda iniciativa postulada debe presentar obligatoriamente los documentos que se exigen en éste instructivo, los cuales deberán ser ingresados en la plataforma de postulación dispuesta para el concurso, en formato PDF y/o JPG.
+		Los documentos a presentar por la institución pública al momento del ingreso de la iniciativa para poder obtener el visto bueno sobre su admisibilidad al concurso vinculación con la comunidad 8% 2024 son:
+			Carta dirigida al Sr. Gobernador Regional, solicitando asignación de los recursos, identificando el nombre completo de la iniciativa y su respectiva línea de financiamiento, nombre del profesional responsable, firmado por el alcalde respectivo.
+			Carta de aceptación de términos y condiciones del Concurso
+			Fotocopia del RUT de la Institución (SII).
+			Fotocopia de la Cédula de Identidad del Representante Legal por ambos lados.
+			Decreto de Nombramiento del alcalde o alcaldesa
+			Comprobante de cuenta bancaria
+			Carta de compromiso de prevención de la violencia, consumo de drogas y de alcohol en recintos que ejecuten actividades con recursos obtenidos a través del concurso (obligatorio para todos los fondos)
+			Cotizaciones (Equipamiento, gestión y producción, Difusión)
+		Nota: Formatos de anexos editables en la página web del Gobierno Regional https://www.goredenuble.cl/ “Concurso Vinculación con la Comunidad 8% 2024
+	ASPECTOS GENERALES
+		Los proyectos están protegidos por la Ley de Propiedad Intelectual N°17.336, no pudiendo ser consultados por terceros, sin la debida autorización de la entidad formuladora. No obstante, lo anterior, el nombre, la cifra solicitada o adjudicada y la naturaleza del proyecto, constituyen información pública.
+		Tanto el presente Instructivo y sus anexos, constituyen los documentos oficiales sobre los cuales se rige la presentación de las iniciativas. Por lo tanto, las instituciones que presenten sus propuestas deberán ceñirse fielmente a lo solicitado en ambos documentos.
+		La sola participación en la convocatoria, implica la aceptación de las disposiciones del presente Instructivo.
+		Se exigirá gratuidad en las actividades financiadas por el Gobierno Regional de Ñuble con la finalidad de promover el libre acceso de los habitantes de la región a las actividades que cuenten con subvención estatal, siempre y cuando el Gobierno Regional financie todo el proyecto.
+		Para las iniciativas aprobadas cuya finalidad sea la edición de libros, revistas, discos y videos, deberán hacer entrega del 10% del tiraje al Gobierno Regional, División de Desarrollo Social y Humano, este porcentaje se destinará a archivo y a distribución en entidades que el Consejo Regional y el Órgano Ejecutivo determinen.
+		Toda actividad desarrollada debe ser informada con 15 días de anticipación a la División de Desarrollo Social y Humano del Gobierno Regional o a la División que corresponda;
+		Toda Invitación a actos de inicio y/o de cierre de los proyectos del “concurso de vinculación con la comunidad 8% 2024” deberá ser coordinada con la División de Desarrollo Social y Humano del Gobierno Regional o con la División que corresponda (Formato de invitación versión editable estará disponible en la página web del Gobierno Regional https://www.goredenuble.cl/ “Concurso Vinculación con la Comunidad 8% 2024) y enviada a los siguientes correos electrónicos subvenciones@goredenuble.cl; secretarioejecutivo@goredenuble.cl .
+		En el caso de existir disponibilidad presupuestaria en alguno de los fondos del concurso, será facultad del Gobierno Regional la redistribución de estos excedentes hacia otros fondos que no alcanzaren a cubrirse con el presupuesto asignado.
+		Las organizaciones que hayan sido beneficiarias y que, al momento de tramitar la transferencia de los recursos, por motivos de fuerza mayor no puedan ejecutar sus iniciativas, deberán ingresar un oficio dirigido al Gobernador Regional renunciando a los recursos e indicando los motivos. Una vez que esto sea formalizado con la respectiva resolución que las da de baja, el Gobierno Regional, a través de la División de Desarrollo Social y humano queda facultado para distribuir los recursos en los fondos que no alcanzaron a cubrirse con el presupuesto asignado.
+		Ejecución de las iniciativas, 3 meses una vez transferidos los recursos en sus respectivas cuentas bancarias, este plazo considera el ingreso de la rendición de cuentas al gobierno regional.
+		Lo no previsto en el instructivo Vinculación con la Comunidad 8% se regirá por la normativa legal vigente.
+MODALIDAD y PLAZOS DE POSTULACIÓN
+	Toda organización postulante deberá considerar lo siguiente para el ingreso de la iniciativa:
+		Acepto términos y condiciones de la Subvención: Cada institución postulante declara conocer y aceptar el contenido íntegro del presente Instructivo General y sus Anexos, asimismo, declaran conocer y aceptar la normativa legal y reglamentaria; y las instrucciones impartidas. (Formato versión editable estará disponible en la página web del Gobierno Regional https://www.goredenuble.cl/  “Concurso Vinculación con la Comunidad 8% 2024).
+		Modalidad de postulación: Para efectos de postulación de las iniciativas, las organizaciones deberán ingresar a la página web del gobierno regional https://www.goredenuble.cl/  “Concurso Vinculación con la Comunidad 8% 2024 donde encontrarán un banner de postulación con todos los antecedentes que deben subir al link habilitado para el proceso 2024.
+		Contenido de la postulación: El proyecto deberá ser descrito detalladamente con estricto apego al instructivo aprobado para el concurso.
+		Cotizaciones: Será responsabilidad de la organización presentar una cotización por cada ítem presupuestario considerado en su iniciativa, para estos efectos se considerarán válidos los pantallazos de productos cotizados por internet.
+		Apoyo al postulante: se generarán jornadas de capacitación dirigida a las instituciones privadas sin fines de lucro y a las municipalidades de la región.
+	PLAZOS
+		INSTITUCIONES PRIVADAS
+		Los plazos que rigen para esta convocatoria son los que se indican a continuación y que se contarán a partir de la fecha de inicio del concurso, la cual será publicada previamente en la página web del Gobierno Regional de Ñuble [https://www.goredenuble.cl/](https://www.goredenuble.cl/) en el “Concurso Vinculación con la Comunidad 8% 2024”, de acuerdo a las siguientes fases:
+		FASE:
+			POSTULACIÓN:
+				El proceso de postulación de las organizaciones privadas sin fines de lucro será de 23 días corridos.
+				Solo en el caso de que el enlace habilitado para el proceso presente problemas, se extenderá el plazo en 5 días hábiles más.
+			ADMISIBILIDAD:
+				La revisión de admisibilidad dispondrá de 8 días hábiles.
+			APELACIÓN:
+				Solo si al momento de revisar la admisibilidad la documentación adjunta presenta errores, la organización tendrá 5 días corridos desde la notificación para ingresar nuevamente el o los documentos en la plataforma web destinada para el ingreso del concurso.
+			INICIATIVAS ADMISIBLES / NO ADMISIBLES:
+				Envío de nómina de iniciativas admisibles y no admisibles al Consejo Regional y publicación en la página web del Gobierno Regional [https://www.goredenuble.cl/](https://www.goredenuble.cl/) en el “Concurso Vinculación con la Comunidad 8% 2024”. Se realizará tras 5 días hábiles.
+			EVALUACIÓN TÉCNICA:
+				La evaluación técnica de las iniciativas se realizará en 28 días hábiles.
+			INICIO PROCESO DE TRANSFERENCIA DE LOS RECURSOS:
+				Revisión de iniciativas con rendición pendiente (envío de nóminas al Departamento de Rendiciones dependiente de la División de Administración y Finanzas). 5 días hábiles.
+				Envío de iniciativas recomendadas técnicamente para ser financiadas al Consejo Regional. 5 días hábiles.
+				Envío de iniciativas recomendadas técnicamente para ser financiadas a la División de Presupuesto e Inversión. 5 días hábiles.
+				Publicación de los resultados del concurso en la página web del Gobierno Regional [https://www.goredenuble.cl/](https://www.goredenuble.cl/) en el “Concurso Vinculación con la Comunidad 8% 2024”. 5 días hábiles.
+				Notificación y envío de pagarés y certificados de aceptación de recursos a las organizaciones beneficiarias. 10 días hábiles.
+				Ceremonias de entrega de recursos. 10 días hábiles.
+				Transferencia de recursos DAF. 10 días hábiles.
+		Nota: El plazo de postulación para instituciones privadas comenzará a regir una vez tramitada completamente la resolución que aprueba los instructivos, la cual debe indicar la fecha de inicio de las postulaciones y la fecha de cierre.
+	INSTITUCIONES PÚBLICAS MUNICIPALIDADES
+		Los plazos que rigen para esta convocatoria son los que se indican a continuación y que se contarán a partir de la fecha de inicio del concurso, la cual será publicada previamente en la página web del Gobierno Regional de Ñuble [https://www.goredenuble.cl/](https://www.goredenuble.cl/) en el “Concurso Vinculación con la Comunidad 8% 2024”, de acuerdo a las siguientes fases:
+		FASE:
+			POSTULACIÓN:
+				El proceso de postulación para las municipalidades de la región será de 10 días hábiles.
+				Solo en el caso de que el enlace habilitado para el proceso presente problemas, se extenderá el plazo en 3 días hábiles más.
+			ADMISIBILIDAD:
+				La revisión de admisibilidad dispondrá de 5 días hábiles.
+			APELACIÓN:
+				Solo si al momento de revisar la admisibilidad la documentación adjunta presenta errores, la organización tendrá 5 días corridos desde la notificación para ingresar nuevamente el o los documentos en la plataforma web destinada para el ingreso del concurso.
+			INICIATIVAS ADMISIBLES / NO ADMISIBLES:
+				Envío de nómina de iniciativas admisibles y no admisibles al Consejo Regional y publicación en la página web del Gobierno Regional [https://www.goredenuble.cl/](https://www.goredenuble.cl/) en el “Concurso Vinculación con la Comunidad 8% 2024”. Se realizará tras 5 días hábiles.
+			EVALUACIÓN TÉCNICA:
+				La evaluación técnica de las iniciativas se realizará en 10 días hábiles.
+			INICIO PROCESO DE TRANSFERENCIA DE LOS RECURSOS:
+				Envío de iniciativas recomendadas técnicamente para ser financiadas a la División de Presupuesto e Inversión. 5 días hábiles.
+				Envío de iniciativas recomendadas técnicamente para ser financiadas para conocimiento del Consejo Regional. 5 días hábiles.
+				Publicación de los resultados del concurso en la página web del Gobierno Regional [https://www.goredenuble.cl/](https://www.goredenuble.cl/) en el “Concurso Vinculación con la Comunidad 8% 2024”. 5 días hábiles.
+				Notificación y envío de pagarés y certificados de aceptación de recursos a las organizaciones beneficiarias. 5 días hábiles.
+				Ceremonias de entrega de recursos. 5 días hábiles.
+				Transferencia de recursos DAF. 5 días hábiles.
+		Notas:
+		El plazo de postulación para instituciones públicas comenzará a regir una vez tramitada completamente la resolución que aprueba los instructivos, la cual debe indicar la fecha de inicio de las postulaciones y la fecha de cierre.
+		El cierre del proceso será automático y se concretará el último día de postulación a las 23:59 horas. NO OLVIDAR QUE LAS REDES DE INTERNET TIENEN CAPACIDAD LIMITADA, POR LO CUAL SE SUGIERE INGRESAR LA TOTALIDAD DE LA INFORMACIÓN DEL PROYECTO CON SUFICIENTE ANTICIPACIÓN A LA FECHA Y HORA DE CIERRE DE POSTULACIÓN DEL CONCURSO.
+		Los documentos —Instructivo General y Anexos— que regulan el Concurso de Vinculación con la Comunidad 8% 2024 han sido elaborados por la División de Desarrollo Social y Humano en conformidad con la Ley de Presupuesto del Sector Público del año vigente y las observaciones del Consejo Regional de Ñuble, siguiendo los principios de igualdad, transparencia y competitividad que deben regir todo proceso concursal.
+		Los plazos presentados son exclusivamente referenciales, por lo que siempre se debe revisar la vigencia de la información en los canales oficiales del GORE [https://www.goredenuble.cl](https://www.goredenuble.cl).
+DE LAS CONSULTAS, ACLARACIONES Y APOYO A LA POSTULACIÓN
+	Plazo para formular consultas: Las consultas sobre los antecedentes de este llamado deberán formularse hasta el mediodía del último día hábil del cierre del concurso, las cuales deberán ser dirigidas a los correos electrónicos y/o teléfonos de oficina del Gobierno Regional de Ñuble. Siendo estos los siguientes
+		Coreos electrónicos:
+			andres.lavanderos@goredenuble.cl
+			cesar.navarrete@goredenuble.cl
+			diego.vera@goredenuble.cl
+			gabriel.molina@goredenuble.cl
+			gonzalo.sandoval@goredenuble.cl
+		Fonos
+			443208939 8939
+			443208994 8994
+			443208984 8984
+			443208945 8945
+			443208953 8953
+DEL FINANCIAMIENTO Y TIPOS DE GASTOS
+	GASTOS FINANCIABLES
+		El “Concurso de vinculación con la comunidad 8% 2024”, como se ha mencionado en puntos anteriores, permite financiar actividades de índole, cultural; social; de seguridad; de equidad de género; deportivas; de adulto mayor y de medio ambiente; los gastos que están permitidos para  la formulación de las iniciativas, y que son transversales para todos los fondos, son los siguientes ítems adjunto a una breve descripción de los mismos:
+			Equipamiento: Se refiere a todo activo, es decir todo artículo que tenga vida útil posterior al término del proyecto y que sea necesario para la ejecución de la iniciativa.
+			Gestión y producción: Se refiere a todo gasto que sea necesario para la ejecución del proyecto que luego de terminar la actividad éste termina.
+			Honorarios: Se refiere a los gastos que consideran el recurso humano necesario para la ejecución de la actividad, es decir, es el costo asociado a los profesionales, técnicos, monitores, coordinadores, (según corresponda), y que se necesiten para el desarrollo de las actividades.
+			 Difusión (3% al 10% obligatoria): Se refiere a los gastos de publicidad del proyecto, es un ítem obligatorio y su finalidad es dar a conocer el proyecto a la comunidad, cabe señalar que la difusión corresponde al proyecto, no de la institución participante.
+		Nota:
+			Para mayor información sobre topes máximos, gastos permitidos y áreas de acción que acepta cada fondo, deberá revisar los anexos respectivos según sea la naturaleza de la iniciativa, es decir, Anexo Fondo de Cultura, Fondo Social, Fondo de Seguridad Ciudadana, Fondo de Equidad de Género, Fondo de Deporte, Fondo de Adulto Mayor y Fondo de Medio Ambiente.
+			Todo equipamiento adquirido debe llevar el logo del Gobierno Regional de Ñuble y del Consejo regional, el Año de ejecución de la iniciativa y el fondo que corresponde al financiamiento (Descargar Normas Gráficas del sitio web del Gobierno regional, https://goredenuble.cl/normas-graficas-y-protocolo/ ).
+DE LAS RESTRICCIONES DEL FONDO Y LOS GASTOS NO FINANCIABLES
+	Se excluyen las postulaciones que no se enmarquen en las áreas que se establecen en este “Instructivo General” y sus respectivos anexos. Dichas postulaciones se declararán no financiables.
+	Sin perjuicio de lo dispuesto en el artículo 12 de la ley N° 19.880, las autoridades, los funcionarios públicos y el personal contratado sobre la base de honorarios, no podrán participar o intervenir en modo alguno en el proceso de concursabilidad, adjudicación o suscripción de un convenio, cuando se encuentren en las siguientes situaciones:
+		Cuando tuvieren la calidad de cónyuge, conviviente civil, o parientes hasta el cuarto grado de consanguinidad o tercero de afinidad inclusive, o tengan hijo o hija en común, con los miembros del directorio o de los ejecutivos o administradores principales de una institución privada que forme parte de un proceso concursal.
+		Cuando hubieren trabajado, prestado servicios remunerados o no, o desempeñado labores directivas en una institución privada que forme parte de un proceso concursal, en los dos años inmediatamente anteriores contados desde que asumieron el cargo público que desempeñan.
+		Cuando hubieren emitido opinión, por cualquier medio, sobre un procedimiento concursal en curso y cuya resolución de adjudicación se encuentre pendiente.
+		No se permite el pago de honorarios, remuneraciones o cualquier otro estipendio con cargo al proyecto a personal que trabaje en el Gobierno Regional de Ñuble, directores de servicios públicos, autoridades regionales y autoridades comunales.
+		No se financiarán proyectos cuya naturaleza sea exclusivamente la adquisición de equipamiento.
+		No se aceptarán rendiciones de proyectos ya ejecutados o en ejecución, ni se autorizará el comienzo de ellos antes de la firma del convenio.
+		No se otorgará financiamiento a aquellas instituciones que mantengan al momento DE LA TRANSFERENCIA DE LOS RECURSOS, rendiciones pendientes u observadas.  El Gobierno Regional tiene la obligación de desistir del pago del proyecto, si la   institución no ha subsanado al momento de la transferencia las observaciones, reintegros, deuda total o parcial, informes de gestión y/o económica de un proyecto anterior.
+		No se financiarán los proyectos con formulación copiada, parcial o totalmente, ya que cada institución debe velar por la pertinencia de sus proyectos. Estos proyectos podrán ser detectados antes, durante y después de la evaluación técnica, los cuales serán clasificados en la categoría de no financiables, se considerarán proyectos copiados, donde objetivos, fundamentación de la iniciativa, y/o descripción del proyecto sean iguales a las de otras iniciativas presentadas por instituciones diferentes.
+		Solo en casos justificados el gobierno regional se reserva el derecho a modificar el presupuesto de la iniciativa.
+		El fondo no financia acciones publicitarias de propaganda y/o gastos de difusión asociados a las labores propias de la entidad beneficiaria de la subvención y no relacionadas directa y exclusivamente a las actividades financiadas en el proyecto.
+		El fondo no financia aportes o donaciones a empresas, universidades, institutos profesionales, canales de televisión, o cualquier otro medio de comunicación social.
+		El fondo no financia gastos en ceremonias de orden social, se entenderá por gasto en ceremonias de orden social, los desembolsos en cócteles, cenas, almuerzos y bebidas alcohólicas efectuados por la organización postulante, excepto los servicios de alimentación autorizados y que sean parte de la ejecución de la iniciativa, ejemplo servicios de alimentación y/o colaciones saludables.
+		El fondo no financia gastos no justificados en el formulario de postulación y que no figuren dentro de las actividades del proyecto y el presupuesto, salvo en casos justificados y siempre y cuando la organización cuente con la autorización previa del gobierno Regional, estos gastos no deben alterar la naturaleza del proyecto ni modificaciones de ítems presupuestarios.
+		El fondo no financia premios en dinero para ningún tipo de actividades que realicen en estos fondos.
+		No se financiarán gastos en compras de animales destinados a premios y/o alimentación.
+		El fondo no financiará gastos correspondientes a pasajes, combustible o trámites propios de la organización.
+		No podrá contratar bajo la modalidad de honorarios a los miembros de las directivas y/o directorios de las instituciones privadas sin fines de lucro participantes ni a sus cónyuges o parientes de aquellos hasta el cuarto grado inclusive. En caso de ocurrencia, el gasto será rechazado.
+	Nota: La organización postulante debe firmar una declaración jurada que indique que cumple con lo establecido en el párrafo "Sin perjuicio de lo dispuesto en el artículo 12 de la ley N° 19.880, las autoridades, los funcionarios públicos y el personal contratado sobre la base de honorarios, no podrán participar o intervenir en modo alguno en el proceso de concursabilidad, adjudicación o suscripción de un convenio, cuando se encuentren en las siguientes situaciones: Cuando tuvieren la calidad de cónyuge, conviviente civil, o parientes hasta el cuarto grado de consanguinidad o tercero de afinidad inclusive, o tengan hijo o hija en común, con los miembros del directorio o de los ejecutivos o administradores principales de una institución privada que forme parte de un proceso concursal, Cuando hubieren trabajado, prestado servicios remunerados o no, o desempeñado labores directivas en una institución privada que forme parte de un proceso concursal, en los dos años inmediatamente anteriores contados desde que asumieron el cargo público que desempeñan, Cuando hubieren emitido opinión, por cualquier medio, sobre un procedimiento concursal en curso y cuya resolución de adjudicación se encuentre pendiente. " de las restricciones del Fondo. (Declaración jurada anexo Formato versión editable estará disponible en la página web del Gobierno Regional https://www.goredenuble.cl/  “Concurso Vinculación con la Comunidad 8% 2024.
+ETAPAS DEL CONCURSO
+	La División de Desarrollo Social y Humano del Gobierno Regional de Ñuble, a través de la unidad de Subvenciones, es la responsable de llevar a cabo el proceso del concurso “Vinculación con la Comunidad 8% 2024”, además podrá solicitar al jefe superior del servicio que mandate a otra División en caso de ser necesario, para que colabore y apoye en la revisión de las iniciativas ingresadas.
+	REVISIÓN DE ANTECEDENTES
+		Una vez concluido el proceso de postulación, se dará comienzo a la etapa de revisión de los antecedentes los que determinarán la admisibilidad de la iniciativa.
+		En el proceso de REVISIÓN DE ANTECEDENTES, los proyectos pueden quedar en los siguientes estados, según sea el caso:
+		ESTADO DEL PROYECTO:
+			ADMISIBLE:
+				Instancia que corresponde cuando el proyecto es recepcionado “en forma”. Es decir que cumple con toda la documentación para continuar en la segunda etapa del proceso, que corresponde a la “Evaluación Técnica”.
+				Se emitirá el informe referente a la cartera de proyectos en estado “Admisibles”, a cargo de la División de Desarrollo Social y Humano del Gobierno Regional de Ñuble, esta cartera será publicada en la plataforma web del Gobierno Regional de Ñuble para conocimiento público.
+				Por tanto, aquellos proyectos que no cumplan con los requisitos establecidos, no podrán continuar con la etapa de evaluación, estos serán publicados en la plataforma web del Gobierno Regional de Ñuble para conocimiento público.
+			NO ADMISIBLE:
+				Instancia que corresponde cuando el proyecto presentado no cumple con los requisitos mínimos de postulación, quedando automáticamente fuera del concurso.
+				Apelación: si al momento de revisar la admisibilidad de la iniciativa, la documentación adjunta presenta errores, la organización tendrá 5 días corridos desde la notificación, para ingresar nuevamente el o los documentos al link habilitado para el proceso y/o correo electrónico destinado para el ingreso del concurso 2024.
+	PUBLICACIÓN DE LOS RESULTADOS DE LOS PLAZOS:
+		De manera referencia se puede encontrar esta información en el anexo "plazos de evaluación", recordamos que esta información es meramente referencia, y siempre se deben revisar las fuentes más actualiza disponible en los canales oficiales del gobierno regional, entre ellos su pagina web https://goredenuble.cl/
+	EVALUACIÓN TÉCNICA
+		La evaluación de los proyectos se efectuará conforme a los criterios de la Pauta de Evaluación indicada en este instructivo.
+			EVALUACIÓN DE LOS PROYECTOS ORGANIZACIONES PRIVADAS
+				Tiene por objeto calificar la pertinencia técnica, económica y social de las iniciativas, considerando los criterios de evaluación establecidos en el instructivo de postulación, además, el analista y/o evaluador tendrá la facultad de modificar los montos establecidos en el proyecto:
+					Adjudicación de FNDR años previamente: Se evaluará si la organización social ha recibido recursos de FNDR de años anteriores, específicamente de los años 2022 y/o 2023.
+					Actividades a realizar y el presupuesto: Coherencia y pertinencia entre la solicitud financiera y presupuestaria con el desarrollo de la iniciativa. Viabilidad financiera del proyecto en todos sus ítems (detalle de; honorarios, gestión y producción, equipamiento y difusión). Adjunta cotizaciones.
+					Cobertura y Difusión: La iniciativa debe identificar claramente la población beneficiaria e indicar número de beneficiarios directos e indirectos junto con el detalle la estrategia comunicacional o de difusión de la iniciativa.
+				El instructivo se encuentra en el anexo: "Pauta de evaluación para proyectos de organizaciones privadas"
+				Nota:
+					Proyecto recomendado técnicamente para ser financiado: Las iniciativas que obtengan entre 65 y 100 puntos en la pauta de evaluación estarán en condiciones de ser sujetas a posible financiamiento.
+					Proyecto no recomendado para ser financiado: Iniciativas que presenten un puntaje menor o igual a 60 puntos no tendrán recomendación técnica, por lo cual no serán objeto de financiamiento.
+			EVALUACIÓN DE LOS PROYECTOS MUNICIPALIDADES
+				Se asignarán puntajes a cada iniciativa en base a la pauta de evaluación establecida:
+					anexo: "Pauta de evaluación para proyectos de proyectos municipales"
+DEL CONCURSO VINCULACIÓN CON LA COMUNIDAD 8% 2024, FONDOS A CONCURSAR Y ANEXOS
+	CONCURSO VINCULACIÓN CON LA COMUNIDAD 8% 2024 PRIVADOS ORGANIZACIONES DE BASE
+		Podrán participar en esta convocatoria las instituciones privadas sin fines de lucro, organizaciones de la sociedad civil y organizaciones comunitarias sin fines de lucro, que al momento de la postulación tengan a lo menos 2 años de antigüedad, contados desde su constitución y que demuestren experiencia en el área de ejecución del convenio. Monto total asignado para el concurso $3.700.000.000 (tres mil setecientos millones de pesos).
+		Las organizaciones privadas sin fines de lucro podrán postular solo a 1 iniciativa de los 7 fondos del concurso:
+			FONDO CULTURA “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024”
+				INTRODUCCIÓN
+					Una de las fortalezas de la Región de Ñuble es su fuerte identidad y cultura, la cual se sustenta en la valoración de su patrimonio natural e inmaterial, que promueve la tolerancia y el respeto a la diversidad.
+					El Fondo Cultura “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024”, tiene como objetivo financiar proyectos de Actividades Culturales que tiendan a preservar y valorar nuestro patrimonio, fortalecer la identidad local, provincial y regional, fomentar la creación, difusión y desarrollo artístico cultural, para ser ejecutados en la Región o fuera de ella, en conformidad a lo establecido en el instructivo y en los 3 ejes de desarrollo contemplados en la Estrategia Regional de Desarrollo Ñuble 2020 – 2028.
+				OBJETIVO DEL CONCURSO
+					Fortalecer y promover la identidad de la Región de Ñuble como eje fundamental del desarrollo cultural, social y económico a través de distintas iniciativas que pongan en valor los elementos que la constituyen.
+				PARTICIPANTES
+					Podrán participar en esta convocatoria las Instituciones Privadas sin fines de lucro que tengan domicilio en la Región de Ñuble.
+					Nota: Las organizaciones de adulto mayor no podrán acceder a este fondo.
+				MONTO ASIGNADO PARA EL FONDO Y DISTRIBUCIÓN DEL PRESUPUESTO
+					Monto asignado para el Fondo de Cultura es de $ 429.117.044 de pesos.
+						El Presupuesto a considerar por cada proyecto debe ajustarse a los montos y gastos que están permitidos y según las acciones culturales que se indican en la tabla; así mismo los gastos deberán ser acordes a la actividad, los que serán evaluados y determinantes en la aprobación del proyecto.
+						A continuación, se desglosa el detalle por cada ítem presupuestario, una breve descripción y las consideración respeto del mismo:
+							Equipamiento: Gastos consistentes en la adquisición de bienes y productos que resulten indispensables para desarrollar las actividades en el proyecto y que permanecerán después de finalizado. Donde estos además contribuyan a su utilización futura. Estos gastos deben ser estrictamente necesarios y en función absoluta de las actividades a ejecutar. Tener en consideración:
+								Será obligatorio que todo lo adquirido, lleve impreso el logo del Gobierno Regional de Ñuble y el año de financiamiento, ver normas gráficas, (la organización debe considerar en la iniciativa el costo de la gráfica).
+							Gestión y producción: Se consideran aquellos gastos en actividades relacionados directamente con el proyecto. Incluyen materiales fungibles que “no permanezcan” después de terminado las actividades. Tener en consideración:
+								Se financian gastos tales como:
+									Servicios de arriendo
+									Servicios de alimentación y/o colaciones saludables monto máximo en este ítem $8.000 pesos por persona.
+									Compra de materiales e insumos para talleres.
+									Servicios de producción de eventos (pago de artistas, locutores, ficha técnica, ficha de sonido, arriendo de pantallas, arriendo de generadores, arriendo de mobiliario y lo necesario para producir el evento, siempre y cuando se justifique en el formulario de postulación).
+							Difusión (obligatoria, revisar normas graficas): 3% - 10 % del presupuesto Corresponde a los gastos de publicidad del proyecto, de carácter obligatorio. Tener en consideración:
+								Se financian gatos tales como:
+									Difusión en medios escritos, de radio o TV.
+									Adquisición de pendones, pasacalles y otros similares.
+									Gorros, lápices, agendas, bolsas de tela, etc.
+								Todo medio de difusión debe considerar lo siguiente:
+									Logo del Gobierno Regional y del Consejo Regional
+									Nombre del Proyecto
+									"Fuente de financiamiento: Fondo de cultura “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024” Gobierno Regional y Consejo Regional"
+							Honorarios: Corresponde al recurso humano que sea necesario contratar para la ejecución del proyecto, los cuales deben ser apropiados al tipo de labor que se pretende llevar realizar, tales como:  Profesionales, técnicos, Monitores, Talleristas, diseñadores, etc.
+								Tipo Honorarios/Valor por hora:
+									PROFESIONALES/ $20.000
+									TECNICOS, TALLERISTAS Y MONITORES/ $15.000
+								Observaciones: Todo honorario al momento de rendir el proyecto debe adjuntar; Currículum vitae Certificado de título Certificados de capacitaciones que avalen experiencia Certificado de antecedentes (En caso de trabajar con grupos vulnerables).
+			Informe de actividades.
+							Nota: Si la iniciativa presentada sobrepasa los montos establecidos en esta tabla, el gobierno regional queda facultado para modificar el presupuesto y ajustarlo a los montos indicados.
+				Consideraciones: Dentro de este Fondo deberán tener presente algunas de las siguientes consideraciones, para la correcta postulación y posterior ejecución de los proyectos.
+					Gestión y producción: Las productoras deberán tener giro acorde a la actividad a realizar, además deberán adjuntar un plan de trabajo claramente detallado indicando qué servicios están incluidos, los cuales deben estar detallados en el formulario de presupuesto de la iniciativa.
+					Gastos de la iniciativa: Será de responsabilidad de organización ajustarse a los gastos que establecieron en el presupuesto de la iniciativa, solo en el caso justificado se podrá autorizar alguna modificación al presupuesto, siempre y cuando esta no afecte la naturaleza del proyecto y no signifique un cambio, aumento o disminución de ítems presupuestario. Dicho caso debe estar autorizado por el gobierno regional antes de materializar la modificación.
+					Plazos de ejecución de las iniciativas y asignación de recursos: Serán 3 meses de ejecución, desde el momento que se
+			transfieren los recursos en las respectivas cuentas bancarias de las organizaciones beneficiarias.
+				ÁREAS DE POSTULACIÓN
+					El Fondo de Cultura incluye 7 áreas de postulación, según lo indica el siguiente recuadro:
+						Artes escénicas: Se financiará presentaciones o eventos de danza, teatro, arte circense, montajes y difusión de obras, itinerancia, seminarios, encuentros y festivales, talleres de capacitación tendientes a fomentar y perfeccionar esta área en niños, niñas y adolescentes, jóvenes y adultos.
+						Artes audiovisuales: Contempla iniciativas relacionadas a ciclos de cine, producción de videos y documentales en sus diversos formatos. Con énfasis en lo patrimonial, el rescate y valoración de nuestros artistas, estructuras urbanas y rurales, fiestas, costumbres y tradiciones referidas a nuestra identidad y diversidad cultural regional.
+						Artes visuales: En esta área se financiará las modalidades de creación, formación y difusión de obras de pintura, grabado, fotografía, escultura, murales, exposiciones de obras, técnicas mixtas, exposiciones colectivas e individuales y talleres.
+						Artes musicales: Contempla iniciativas para realizar producciones, talleres, presentaciones, itinerancias artísticas, grupos musicales, incluidos los grupos de música ranchera, y por otra parte ediciones de obras musicales.
+						Artes literatura: Se refiere al fomento de la lectura y fusión de la literatura, publicaciones de obras de creación, textos de rescate del patrimonio e identidad, eventos literarios y escritura, revistas y periódicos de contenido cultural, realización de concursos de creación literaria, cuentos, concurso local con énfasis a niños niñas y adolescentes, adulto mayor, talleres, seminarios, etc.
+						Cultura tradicional: Artesanía y Folclor, en esta área se financiarán capacitaciones, talleres, ferias campesinas, artesanales y culturales, que promuevan el patrimonio cultural y rural de la región, eventos de música y danza que fortalezcan la cultura tradicional y popular de la Región de Ñuble.
+						Patrimonio cultural: Se entiende por Patrimonio Cultural los usos, representaciones, expresiones, conocimiento y técnicas, que en conjunto con los instrumentos, objetos, artefactos y espacios culturales les son inherentes a las comunidades, los grupos y en algunos casos los individuos podrán reconocer como parte integrante su patrimonio cultural. A esto se suma los monumentos, conjuntos y lugares construidos, patrimonio natural valorados como espacios significativos para las comunidades que los habitan. Actividades de rescate del patrimonio local, provincial y regional propuestos por la misma comunidad de acuerdo a su identidad cultural.
+				MONTOS A POSTULAR POR ÁREAS Y TIPOS DE ORGANIZACIONES E INSTITUCIONES
+					Todas las áreas de postulación:
+						INSTITUCIONES PRIVADAS SIN FINES DE LUCRO: Universidades, Corporaciones, Asociaciones de Municipalidades.
+							MONTOS TOPE A POSTULAR POR PROYECTO: $5.000.000
+						AGRUPACIONES CULTURALES: Conjuntos Folclóricos, Fundaciones, Centro Culturales, Bandas Musicales, Grupos Literarios, Orquestas, Organizaciones de artesanos, Organizaciones campesinas
+							MONTOS TOPE A POSTULAR POR PROYECTO: $3.500.000
+						OTROS ORGANIZACIONES: Juntas de Vecinos, Comités de Adelanto y Desarrollo, Centros de padres y apoderados, Organizaciones juveniles, Organizaciones de mujeres, Organizaciones Indígenas, Organizaciones de Discapacitados, Organizaciones de padres de niños con TEA, Otras organizaciones que en sus estatutos contemplen el fomento a la cultura.
+			FONDO SEGURIDAD CIUDADANA “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024”
+				INTRODUCCIÓN
+					El Fondo Seguridad Ciudadana, tiene como objetivo financiar proyectos que generen actividades integrales en materias de Seguridad Ciudadana,  que sean vinculantes a la Política Nacional de Seguridad 2022-2024 y a su vez en directa relación a las prioridades que entregue la Autoridad Regional, incorporando lineamientos especiales establecidos para este fondo que se basan principalmente en mejorar la calidad de vida de las personas y su bienestar, siguiendo los principios de igualdad, de equidad y de no discriminación, velando por los derechos de acceso y participación igualitaria, a través de un proceso participativo abierto a la comunidad organizada.
+					El Gobierno Regional de Ñuble distingue la seguridad como un aspecto esencial para el bienestar de sus habitantes; y a fin de disminuir el delito y la percepción de inseguridad en la ciudadanía; se presenta este Fondo, el cual busca apoyar y/o complementar iniciativas que emanen desde las comunidades, incrementando el rol en la construcción del tejido social como estrategia para la corresponsabilidad en materias de seguridad, apoyar acciones de protección civil y situaciones de emergencias, riesgos y desastres naturales en los territorios.
+				OBJETIVO DEL CONCURSO
+					Promover iniciativas y/o programas que generen recuperación y mayor ocupación del espacio público, propiciando una relación de cooperación entre los vecinos, además de iniciativas de prevención del delito y de prevención de emergencias que afecten la seguridad de las personas.
+				PARTICIPANTES
+					Podrán participar en esta convocatoria las Instituciones Privadas sin fines de lucro que tengan domicilio en la Región de Ñuble.
+					Nota: Las Organizaciones de adulto mayor no podrán acceder a este fondo.
+				MONTO ASIGNADO PARA EL FONDO Y DISTRIBUCIÓN DEL PRESUPUESTO
+					Monto asignado para el Fondo Seguridad Ciudadana es de $ 1.490.298.594 de pesos, el presupuesto de cada proyecto debe ajustarse según las acciones que se indican en tabla siguiente, asimismo los gastos deberán ser acordes a la actividad, los que serán evaluados y determinantes en la aprobación del proyecto.
+				A continuación, se desglosa el detalle por cada ítem presupuestario:
+					Equipamiento: Gastos consistentes en la adquisición de bienes que resulten indispensables para desarrollar las actividades del proyecto y que permanecerán después de finalizado. Estos gastos deben ser estrictamente necesarios y en función absoluta de las actividades a ejecutar.
+						Será obligatorio que todo lo adquirido, lleve impreso el logo del Gobierno Regional de Ñuble y el año de financiamiento, ver normas gráficas, (la organización debe considerar en la iniciativa el costo de la gráfica).
+					Gestión y producción: Se consideran aquellos gastos en actividades relacionados directamente con el proyecto. Incluyen materiales fungibles que “no permanezcan” después de terminado las actividades.
+						Se financian gastos tales como:
+							Servicios de arriendo
+							Servicios de alimentación (colaciones saludables monto máximo en este ítem $8.000 pesos por persona)
+							Compra de materiales e insumos para talleres
+							Servicios de producción de eventos (pago de artistas, locutores, ficha técnica, etc)
+					Difusión (obligatoria revisar normas graficas): 3% - 10 % del presupuesto Corresponde a los gastos de publicidad del proyecto, de carácter obligatorio.
+						Se financian gatos tales como:
+							Difusión en medios escritos, de radio o en TV.
+							Adquisición de pendones, pasacalles y otros similares.
+							Gorros, lápices, agendas, bolsas de tela, etc. Todo medio de difusión debe considerar lo siguiente:
+						 Todo medio de difusión debe considerar lo siguiente:
+							Logo del Gobierno Regional y logo del Consejo Regional
+							Nombre del Proyecto
+							Fuente de financiamiento: Fondo de Seguridad “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024”, Gobierno Regional de Ñuble y Consejo Regional de Ñuble.
+					Honorarios: Corresponde al recurso humano que sea necesario contratar para la ejecución del proyecto, los cuales deben ser apropiados al tipo de labor que se pretende llevar realizar.
+						Tipo Honorarios/Valor por hora:
+							MONITORES, TALLERISTAS/ $15.000
+							TÉCNICOS DE NIVEL SUPERIOR/ $ 18.000
+							PROFESIONALES CON ESTUDIOS SUPERIORES/ $20.000
+						Observaciones: Todo honorario al momento de rendir el proyecto debe adjuntar, Currículum vitae ,Certificado de título ,Certificados de capacitaciones que avalen experiencia, Certificado de antecedentes (En caso de trabajar con grupos vulnerables), Informe de actividades.
+					Nota: Si la iniciativa presentada sobrepasa los montos establecidos en esta tabla, el gobierno regional queda facultado para modificar el presupuesto y ajustarlo a los montos indicados.
+				CONSIDERACIONES: Dentro de este Fondo deberán tener presente algunas de las siguientes consideraciones, para la correcta postulación y posterior ejecución de los proyectos.
+					Gestión y producción: Las productoras deberán tener giro acorde a la actividad a realizar, además deberán adjuntar un plan de trabajo claramente detallado indicando qué servicios están incluidos, los cuales deben estar detallados en el formulario de presupuesto de la iniciativa.
+					Gastos de la iniciativa: Será de responsabilidad de organización ajustarse a los gastos que establecieron en el presupuesto de la iniciativa, solo en el caso justificado se podrá autorizar alguna modificación al presupuesto, siempre y cuando esta no afecte la naturaleza del proyecto y no signifique un cambio, aumento o disminución de ítems presupuestario. Dicho caso debe estar autorizado por el gobierno regional antes de materializar la modificación.
+					Plazos de ejecución de las iniciativas y asignación de recursos: Serán 3 meses de ejecución, desde el momento que se transfieren los recursos en las respectivas cuentas bancarias de las organizaciones beneficiarias.
+				ÁREAS DE POSTULACIÓN:
+					Deberán estar relacionadas con la prevención, seguridad y protección civil, la compra del equipamiento debe ser atingente al proyecto postulado, teniendo que acompañar la iniciativa con charlas, talleres o similares dictadas por un experto en seguridad ciudadana, Universidad, Dirección de Seguridad del Municipio, Carabineros de Chile, PDI o algún otro organismo estatal atingente al área en cuestión, y solicitar apoyo en este ámbito.
+					 El Fondo de Seguridad Ciudadana incluye 2 áreas, según lo indica el siguiente recuadro:
+						PREVENCIÓN SITUACIONAL:
+							CÁMARAS DE TELEVIGILANCIA:
+								 Sistemas de cámaras de televigilancia orientada a la co-construcción de seguridad barrial.
+							ALARMAS COMUNITARIAS:
+								Sistemas de alarmas comunitarias orientados a la co-construcción de seguridad barrial.
+							RECUPERACIÓN DE ESPACIOS PÚBLICOS (accesibilidad universal):
+								 Proyectos destinados a mejorar la seguridad de espacios como centros comunitarios, sedes vecinales, plazas activas, multi- canchas, plazoletas. Adquisición de bancos, basureros, árboles, plantas, juegos infantiles, instalación de señalética, etc.
+								Nota: La subvención no financia construcción de nuevas obras, ampliaciones y/o reposiciones.
+							ILUMINACIÓN DE ESPACIOS PÚBLICOS:
+								Adquisición e instalación de luminarias LED convencionales y/o fotovoltaicas.
+						PREVENCIÓN DE RIESGOS Y DESASTRES:
+							INICIATIVAS DE MITIGACIÓN Y RESPUESTA ANTE CATASTROFES NATURAES QUE AFECTEN A LA REGIÓN
+								charlas, talleres, seminarios, compra de equipamiento menor, enseres, etc.
+							INICIATIVAS DE PREVENCIÓN DE EMERGENCIA SANITARIAS Y DÉFICIT HÍDRICO
+								charlas, talleres, seminarios, compra de equipamiento menor, acumuladores de agua, etc.
+				MONTOS A POSTULAR POR ÁREAS Y TIPOS DE ORGANIZACIONES E INSTITUCIONES
+					PREVENCIÓN SITUACIONAL/ PREVENCIÓN DE RIESGOS Y DESASTRES
+						INSTITUCIONES PRIVADAS SIN FINES DE LUCRO:
+							Universidades, Corporaciones, y Asociaciones de Municipalidades.
+								MONTOS TOPE A POSTULAR POR PROYECTO EN $6.000.000
+							Juntas de Vecinos, Uniones Comunales de Juntas de Vecinos, Comités de Adelanto y Desarrollo, Organizaciones de Mujeres y/o, Uniones Comunales de Mujeres, Fundaciones, Organizaciones de prevención comunitaria, Comités o cooperativas de agua potable, Bomberos, Otras organizaciones funcionales que en sus estatutos contemplen objetivos relacionados con el desarrollo social, la seguridad y la protección civil.
+								MONTOS TOPE A POSTULAR POR PROYECTO EN $4.000.000
+			FONDO SOCIAL “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024” (En desarrollo)
+			FONDO EQUIDAD DE GÉNERO "CONCURSO DE VINCULACIÓN CON LA COMUNIDAD" 8% 2024 (VEn desarrollo)
+			FONDO DEPORTE "CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024" (En desarrollo)
+			FONDO ADULTO MAYOR "CONCURO VINCULACION CON LA COMUNIDAD 8% 2024" (En desarrollo)
+			FONDO MEDIO AMBIENTE "CONCURSO VINCULACIÓN CON LA COMUNIDAD 8% 2024" (En desarrollo)
+	CONCURSO VINCULACIÓN CON LA COMUNIDAD 8% 2024 PÚBLICO, MUNICIPALIDADES
+		Monto total asignado para el Fondo $500.000.000 quinientos millones de pesos. Podrán participar en esta convocatoria las municipalidades de las 21 comunas de la Región de Ñuble:
+			FONDO SEGURIDAD CIUDADANA “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024”
+				INTRODUCCIÓN
+					El Gobierno Regional de Ñuble distingue la seguridad como un aspecto esencial para el bienestar de sus habitantes; y a fin de disminuir el delito y la percepción de inseguridad en la ciudadanía, es que, se crea el Fondo de Seguridad Ciudadana dirigido a las municipalidades de la región, el cual busca apoyar y/o complementar iniciativas que emanen desde las comunidades, incrementando el rol en la construcción del tejido social como estrategia para la corresponsabilidad en materias de seguridad.
+				OBJETIVO DEL CONCURSO
+					Promover iniciativas y/o programas que generen recuperación y mayor ocupación del espacio público, propiciando una relación de cooperación entre los vecinos, además de iniciativas de prevención del delito y de prevención de emergencias que afecten la seguridad de las personas.
+				PARTICIPANTES
+					Podrán participar en esta convocatoria solo las Municipalidades de la Región de Ñuble.
+				MONTO ASIGNADO PARA EL FONDO Y DISTRIBUCIÓN DEL PRESUPUESTO
+					Monto asignado para el Fondo Seguridad es de $ 500.000.000 (quinientos millones de pesos) distribuidos en un monto máximo a postular por cada municipio de $23.809.523 (veintitrés millones ochocientos nueve mil quinientos veintitrés mil pesos), el presupuesto de cada proyecto debe ajustarse según las acciones que se indican en tabla siguiente, asimismo los gastos deberán ser acordes a la actividad, los que serán evaluados y determinantes en la aprobación del proyecto.
+					A continuación, se desglosa el detalle por cada ítem presupuestario, una breve descripción y las consideración respeto del mismo:
+						Equipamiento: Gastos consistentes en la adquisición de bienes que resulten indispensables para desarrollar las actividades del proyecto y que permanecerán después de finalizado. Estos gastos deben ser estrictamente necesarios y en función absoluta de las actividades a ejecutar. Tener en consideración:
+							Será obligatorio que todo lo adquirido, lleve impreso el logo del Gobierno Regional de Ñuble, el nombre del Fondo y el año de financiamiento, ver normas gráficas, (la institución debe considerar en la iniciativa el costo de la gráfica).
+						Gestión y producción: Se consideran aquellos gastos en actividades relacionados directamente con el proyecto. Incluyen materiales fungibles que “no permanezcan” después de terminado las actividades. Tener en consideración:
+							Se financian gastos tales como:
+								Servicios de arriendo
+								Servicios de alimentación (colaciones saludables monto máximo en este ítem $8.000 pesos por persona)
+								Compra de materiales e insumos para talleres
+								Servicios de producción de eventos (pago de artistas, locutores, ficha técnica, etc).
+						Difusión (obligatoria revisar normas graficas): 3% - 10 % del presupuesto Corresponde a los gastos de publicidad del proyecto, de carácter obligatorio.
+							Se financian gastos tales como:
+								Difusión en medios escritos, de radio o en TV.
+								Adquisición de pendones, pasacalles y otros similares.
+								Gorros, lápices, agendas, bolsas de tela, etc.
+							Todo medio de difusión debe considerar lo siguiente:
+								Logo del Gobierno Regional y del Consejo Regional
+								Nombre del Proyecto
+								"Fuente de financiamiento: Fondo de Seguridad “CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% 2024” Gobierno Regional y Consejo Regional"
+						Honorarios: Corresponde al recurso humano que sea necesario contratar para la ejecución del proyecto, los cuales deben ser apropiados al tipo de labor que se pretende llevar realizar.
+							Tipo Honorarios/Valor por hora:
+								MONITORES, TALLERISTAS/ $15.000
+								TÉCNICOS DE NIVEL SUPERIOR/ $18.000
+								PROFESIONALES CON ESTUDIOS SUPERIORES/ $20.000
+							Observaciones: Todo honorario al momento de rendir el proyecto debe adjuntar:
+								Currículum vitae
+								Certificado de título
+								Certificados de capacitaciones que avalen experiencia
+								Certificado de antecedentes (En caso de trabajar con grupos vulnerables).
+								Informe de actividades.
+				CONSIDERACIONES:
+					Dentro de este Fondo deberán tener presente algunas de las siguientes consideraciones, para la correcta postulación y posterior ejecución de los proyectos.
+						Gestión y producción: Las productoras deberán tener giro acorde a la actividad a realizar, además deberán adjuntar un plan de trabajo claramente detallado indicando qué servicios están incluidos, los cuales deben estar detallados en el formulario de presupuesto de la iniciativa.
+						Gastos de la iniciativa: Será de responsabilidad de organización ajustarse a los gastos que establecieron en el presupuesto de la iniciativa, solo en el caso justificado se podrá autorizar alguna modificación al presupuesto, siempre y cuando esta no afecte la naturaleza del proyecto y no signifique un cambio, aumento o disminución de ítems presupuestario. Dicho caso debe estar autorizado por el gobierno regional antes de materializar la modificación.
+						Plazos de ejecución de las iniciativas y asignación de recursos: Serán 3 meses de ejecución, desde el momento que se transfieren los recursos en las respectivas cuentas bancarias de las organizaciones beneficiarias.
+				Notas:
+					La compra del equipamiento debe ser atingente al proyecto postulado, teniendo que acompañar obligatoriamente dicha iniciativa con, charlas, talleres o similares dictadas por un experto en seguridad ciudadana, Universidad, Dirección de Seguridad del Municipio, Carabineros de Chile, PDI o algún otro organismo estatal atingente al área en cuestión.
+					Las iniciativas que se financien a las municipalidades deberán ser presentadas por estas a la Comisión de Desarrollo Social y Seguridad o en la instancia que esta determine.
+				ÁREA DE POSTULACIÓN:
+					PREVENCIÓN SITUACIONAL:
+						CÁMARAS DE TELEVIGILANCIA:
+							Sistemas de cámaras de televigilancia orientada a la co-construcción de seguridad barrial
+						RECUPERACIÓN DE ESPACIOS PÚBLICOS:
+							Proyectos destinados a mejorar la seguridad de espacios como centros comunitarios, sedes vecinales, plazas activas, multi- canchas, plazoletas, etc.
+							Adquisición de bancos, basureros, árboles, plantas, juegos infantiles, instalación de señalética, etc.
+							Nota: La subvención no financia construcción de nuevas obras, ampliaciones y/o reposiciones.
+						ILUMINACIÓN DE ESPACIOS PÚBLICOS:
+							adquisición e instalación de luminarias LED convencionales y/o fotovoltaicas.
+				MONTOS A POSTULAR POR ÁREAS Y TIPOS DE ORGANIZACIONES E INSTITUCIONES
+					ÁREA: PREVENCIÓN SITUACIONAL
+						INSTITUCIONES: Municipalidades
+							MONTO MAXIMO DE POSTULACIÓN $23.809.523
+ANEXOS CONCURSO VINCULACIÓN CON LA COMUNIDAD 8% 2024
+	Todos los Documentos anexos que las organizaciones privadas sin fines de lucro y las municipalidades deben presentar al momento de la postulación se encontraran en versión formato editable en el sitio web del Gobierno Regional de Ñuble, https://www.goredenuble.cl/ “Concurso Vinculación con la Comunidad 8% 2024.
+PROCEDIMIENTO DE SEGUIMIENTO, EJECUCIÓN Y RENDICION DE LAS INICIATIVAS
+	Primer articulo
+		APROBACIÓN DE LA INICIATIVA
+			Luego de que las iniciativas recomendadas técnicamente por la unidad de Subvenciones de la División de Desarrollo Social y humano para ser financiadas por Gobierno Regional de Ñuble, se llevarán a cabo los trámites establecidos en la normativa vigente, con el objeto de dictar una resolución que autorice la transferencia de recursos a la entidad beneficiada, los cuáles serán entregados a la institución previa firma del Convenio de Transferencia de los recursos y con la presentación de la siguiente documentación que será ingresada a la División de Presupuesto e Inversión Regional:
+				Cédula nacional de identidad del representante legal de la institución.
+				Certificado de directorio vigente actualizado (antigüedad máxima de 30 días corridos)
+				Comprobante de cuenta bancaria (donde se refleje claramente el número de cuenta)
+				Pagaré a la vista
+				Convenio
+				Certificado de receptores de fondos públicos actualizado (Ley 19.862)
+				Cualquier otro documento solicitado por el Gobierno Regional de Ñuble
+	Segundo articulo
+		DE LAS GARANTÍAS
+			Con el objeto de caucionar el correcto uso de los recursos transferidos a las instituciones privadas sin fines de lucro, al momento de la firma del convenio de transferencia, se les exigirá presentar un Pagaré suscrito ante notario u Oficial del Registro Civil e identificación (Registro Civil solo en aquellas comunas donde no exista notaria), firmado por el representante legal de la institución.
+			El pagaré a la vista o la garantía, deberán considerar una vigencia, en primera instancia, de hasta dos meses (60 días corridos) posteriores al cierre del proyecto, considerando la fecha estimada de transferencia de los recursos como punto de inicio de la ejecución. En todo caso, “la institución” esta obliga a mantener el pagaré o la garantía, según corresponda, vigentes desde el inicio hasta el cierre total del “proyecto”, obligándose a ampliarla en los casos que se extienda la ejecución total del mismo por razones técnicas – administrativas.
+			La devolución de la garantía se efectuará por medio de la División de Administración y Finanzas a solicitud del representante legal de la “institución”, solo una vez terminado el “proyecto”, lo que significa: haber finalizado la totalidad de las actividades contempladas en este, haber sido aprobados en un 100% la rendición de recursos y haberse emitido el certificado de cierre técnico y financiero respectivamente.
+	Tercer articulo
+		CONSIDERACIONES GENERALES
+			El representante legal de la institución beneficiada será el encargado del proyecto y tendrá la responsabilidad financiera, técnica, administrativa y judicial. En este sentido, deberá velar por la correcta ejecución de la iniciativa y reunir los antecedentes para rendir oportunamente los recursos transferidos. En caso de que exista un cambio en la representación legal de la entidad beneficiada, será responsabilidad de la institución informar al Gobierno Regional de Ñuble del hecho, mediante declaración jurada simple.
+	Cuarto articulo
+		PROCESO DE EJECUCIÓN
+			Esta etapa dice relación con la ejecución real del proyecto, es decir, está asociada al desarrollo de las actividades comprometidas en la postulación para el cumplimiento de objetivos.
+			La Institución Beneficiaria deberá cumplir con las siguientes tareas:
+				Informar con antelación el inicio de las actividades e hitos importantes del proyecto, hecho que dará inicio al proceso de orientación, seguimiento y supervisión por parte de los profesionales de la División de Desarrollo Social y Humano.
+				Recibir a los profesionales de la División de Desarrollo Social y Humano Regional que realizarán supervisiones con la finalidad de controlar la ejecución de la iniciativa y el buen uso de los recursos públicos; además, una vez que se firme el convenio de transferencia, los profesionales encargados de cada fondo entregarán física o por correo electrónico los siguiente antecedentes: copia del convenio de transferencia, Copia del Formulario de postulación, presupuesto aprobado del proyecto y calendario de capacitación para la elaboración de rendiciones de cuenta.
+				Dar cumplimiento a los objetivos, actividades y gastos definidos para el proyecto.
+				Reintegrar la totalidad de los recursos asignados por el Gobierno Regional en caso de que la ejecución del proyecto no se realice o se haga imposible su ejecución dentro de los plazos previstos según lo establecido en el Convenio.
+	Quinto articulo
+		PROCESO DE RENDICIÓN
+			Respecto al proceso de rendición es importante considerar:
+				Las Entidades Privadas que sean beneficiarias de esta subvención, deberán rendir con documentación original de sus gastos al Gobierno Regional de Ñuble, de conformidad a lo establecido en este instructivo.
+				La rendición de cuentas deberá efectuarse en los plazos señalados en este instructivo, entendiéndose que solo será exigible una rendición, una vez finalizada la ejecución de la iniciativa. Lo anterior dando cumplimiento expreso a lo señalado en el artículo Nº27 del Título III de la Resolución Nº30 de la Contraloría General de la República.
+				En la rendición se deberán incorporar los contratos de recursos humanos, certificaciones respectivas, informes del período, anexos, medios de verificación y cualquier otro documento solicitado por el Gobierno Regional de Ñuble.
+				Respecto a la emisión de las boletas de honorarios deberán ser rendidas por el monto bruto.  Al momento de rendir la boleta de honorarios, ésta deberá detallar claramente el servicio prestado, además, deberán anexar el contrato de prestación de servicios firmado y el comprobante de pago del honorario o firma en la boleta (parte inferior) que registre conformidad del pago. En caso de rendir una boleta de honorarios con retención, se deberá complementar su gasto con el comprobante de pago del impuesto retenido, Formulario 29 del Servicio de Impuestos Internos. Estos documentos a su vez, deberán adjuntar un informe que acredite la actividad realizada y lista de participantes (nombre, RUT, teléfono y firma) en el caso de capacitaciones. En caso de contratar a un profesional extranjero, el Servicio de Impuestos Internos (SII) considera una retención del 35%, por lo que se deberá rendir a través del Formulario 29, junto al contrato de prestación de servicios del profesional y de la institución.
+				La documentación soportante del gasto y ejecución de la iniciativa deberá tener fecha posterior o igual a la de recepción de los recursos por parte de la entidad beneficiaria, por ende, será directamente rechazada toda documentación soportante de gastos, actividades y ejecución que tenga fecha anterior o previa al traspaso de fondos. Asimismo, se rechazará toda factura y boleta de honorarios con fecha posterior al cierre de actividades o término del proyecto establecido en el respectivo programa de actividades, o de sus prórrogas que consten en anexos al mismo.
+				Todos los gastos efectuados deberán ser respaldados con FACTURA (que considere como forma de pago: al contado) a nombre de la organización beneficiada. (Salvo los correspondientes a las prestaciones de servicios honorarios). Conforme al Decreto Ley N° 825 del IVA, todo documento tributario como las facturas, deberán ser emitidos por el proveedor al momento de la entrega del producto o servicio, o al momento del pago, lo que ocurra primero y, deberá agregarse a ésta, un instrumento que acredite el pago efectivo de las mismas (entiéndase documento al contado, comprobante de egreso y/o comprobante de transferencia).
+				El gasto debe ajustarse estrictamente al presupuesto aprobado, en caso contrario, el gasto debe ser asumido por la institución. Es decir, se debe respetar el monto total aprobado de cada ítem (honorarios, equipamiento, gastos de gestión y producción y difusión), existiendo solo la posibilidad de ajustarse al monto total aprobado por ítem siempre y cuando esta no afecte los objetivos, naturaleza del proyecto y considere los productos y/o bienes ya existentes.
+				Por otra parte, se deberán adjuntar los medios de verificación que den cuenta de la realización de las actividades comprometidas, tales como:
+					Imágenes del equipamiento;
+					Imágenes de actividades desarrolladas;
+					Imágenes de las actividades de difusión;
+					Actas de custodia de equipamiento: Todos los implementos adquiridos con fondos aportados por el Gobierno Regional de Ñuble  deben  permanecer  en  custodia  de  la   institución Beneficiaria; en aquellos proyectos, cuya naturale.za obligue a ceder la tenencia a terceros, se deberá dejar constancia de la recepción conforme  de  estos  y  presentar  documentación indicando: nombre, RUT, domicilio, teléfono  y  firma  de la persona  natural, o  nombre, RUT, domicilio,  teléfono   y firma   del Representante Legal y nombre, RUT, dirección y timbre de la Institución de tratarse de una persona jurídica, además del detalle de los artículos entregados;
+					Nota: Las imágenes que muestran el equipamiento adquirido, las actividades desarrolladas, incluyendo	las actividades de difusión deben llevar impreso el logo del Gobierno Regional de Ñuble
+				Listas de asistencia de las actividades desarrolladas: las actividades realizadas por la Institución con cargo a los recursos entregados por el Gobierno Regional de Ñuble, tales como: cursos, talleres, capacitaciones, alojamiento, movilización y colación deben ser respaldadas con la lista de asistentes firmada por cada participante, con el fin de avalar la realización de la actividad y justificar el gasto. Especificando nombre, RUT, teléfono y firma de beneficiarios.
+				Toda compra con factura que contemple algún servicio integral, deberá adjuntar un Contrato con la descripción detallada de los productos y servicios contratados, además de indicar la individualización de las partes, períodos de ejecución o entrega del bien/servicio, código del proyecto, el monto bruto a cancelar y fuente de financiamiento respectiva.
+				La Institución Beneficiaria no podrá incluir como gasto en la Rendición de Cuentas lo siguiente:
+					Multas e intereses por cualquier concepto y comisiones;
+					Anticipos o pagos por adelantado, sin que haya sido entregado a entera conformidad el producto o servicio contratado o sin la emisión de documentos que acrediten la compra;
+					Pagos por adelantado de honorarios;
+					Gastos respaldados con boletas de compra-venta;
+					Gastos respaldados con fotocopia o imágenes de boletas o facturas;
+					Gastos respaldados	con   documentos   sobrescritos	o enmendados;
+					Gastos respaldados con facturas/boletas no autorizadas por el Servicio de Impuestos Internos (SII);
+					Gastos que no se encuentren dentro del giro comercial de la actividad económica vigente del proveedor; o Recibos simples por traslados, servicios o compras; o Gastos que no se encuentren autorizados en el presupuesto del Convenio de Transferencia de Recursos; o Gastos que excedan el monto autorizado por ítem.
+					Si hay excedentes de los recursos entregados una vez finalizada la ejecución de la iniciativa, éstos deben reintegrarse oportunamente al Gobierno Regional de Ñuble, además, se deberá presentar el formulario de reintegro más el comprobante del depósito realizado, vía oficina de partes del Gobierno Regional de Ñuble.
+					En caso de cualquier discrepancia en la rendición de cuenta presentada por las instituciones, éstas serán comunicadas vía correo electrónico por el Gobierno Regional, para que sean subsanadas. En caso de persistir tales discrepancias, las instituciones serán notificadas, solicitando el respectivo reintegro de los recursos objetados. En el evento que al revisar los documentos que acompañan a una rendición demuestren que hay adulteración, falsedad o cualquier otra anomalía, se efectuará por el Gobierno Regional de Ñuble la denuncia respectiva a   la Fiscalía.  Esta circunstancia importará el rechazo del gasto y la obligación para la institución de devolver o restituir su monto al Gobierno Regional de Ñuble.
+					Los instructivos, formularios de postulación, manual de normas gráficas y anexos de rendición y toda la información correspondiente al proceso, se encontrará publicada en la página web: www.goredenuble.cl.
+					El Gobierno Regional de Ñuble podrá considerar para la correcta supervisión del gasto efectuado cualquier otro medio de verificación en la etapa de rendición.
+					El plazo para la firma del convenio de transferencia de recursos y firma de pagarés, será de 10 días hábiles administrativos, lo anterior, a partir de la publicación de aviso de firma, la cual será publicada en la página web del Gobierno Regional de Ñuble www.goredenuble.cl
+					Si la organización no se presenta en el plazo antes estipulado y sin presentar justificación alguna, estos recursos serán reintegrados al presupuesto de este servicio administrativo.
+	Sexto articulo
+		DOCUMENTACIÓN A PRESENTAR EN LA RENDICIÓN DE CUENTAS
+			Oficio conductor;
+			Informe ejecutivo rendición del Concurso de Vinculación con la Comunidad 8% 2024. (Anexo n°1);
+			Informe financiero rendición del Concurso de Vinculación con la Comunidad 8% 2024 (Anexo n°2);
+			Voucher o comprobante de recursos transferidos;
+			Facturas y boletas de honorarios;
+			Formulario 29 del SII (en caso de boletas con retención de impuesto);
+			Comprobante de reintegro (en caso de existir);
+			Medios de Verificación (Anexo n°3)
+			Informe de actividades de honorarios (Anexo n°4);
+			Bitácora de traslado de beneficiarios (Anexo n°4.b);
+			Acta de inventario y recepción de equipamiento (Anexo n°5);
+			Acta de entrega de implementación a terceros (Anexo n°6);
+			Contrato tipo de prestación de servicios (Anexo n°7);
+			Informe final de gestión (Anexo n°8);
+	Séptimo articulo
+		SUPERVISIÓN DE PROYECTOS
+			Los profesionales de la División de Desarrollo Social y Humano a cargo del proceso, cuando corresponda y de acuerdo a lo entregado por la institución beneficiaria, coordinarán la visita en terreno con representantes de la institución beneficiada, de manera de confirmar el desarrollo de la actividad a supervisar y preparar la información necesaria para el desarrollo de la supervisión correspondiente, tales como presupuestos, planillas de supervisión, etc. Sin perjuicio de lo anterior, el Gobierno Regional de Ñuble podrá eventualmente solicitar realizar una visita cuando lo estime conveniente.
+	Octavo articulo
+		REVISIÓN DE LA DOCUMENTACIÓN
+			Los profesionales a cargo, revisarán la documentación previamente señalada en este instructivo y procederán a realizar el certificado de revisión técnica y financiera por parte del Gobierno Regional. Si la institución presenta observaciones, los profesionales a cargo solicitarán la subsanación de esta, vía correo electrónico, para ser resueltas y entregadas vía oficina de partes del Gobierno Regional de Ñuble.
+			En el evento de que al momento de revisar los documentos que se acompañan a una rendición y se compruebe o demuestre que hay adulteración, falsedad o cualquier otra anomalía, se efectuará por parte el Gobierno Regional de Ñuble la denuncia respectiva al Ministerio Público respectivo. Esta circunstancia importará el rechazo del gasto y la obligación para la institución de devolver o restituir su monto al Gobierno Regional de Ñuble.
+			Las instituciones beneficiarias que no hayan realizado su rendición de cuentas dentro de los plazos establecidos, se le remitirá un oficio de cobro administrativo, solicitando la rendición correspondiente e indicando que no podrán ser beneficiarias de nuevos recursos para el siguiente concurso.
+	Noveno articulo
+		SANCIONES Y COBRANZA
+			El Gobierno Regional de Ñuble, podrá poner término anticipado a la iniciativa, suspendiendo total o parcialmente la entrega de recursos y ordenará la adopción de las medidas correspondientes.  Lo anterior, equivale a obtener el reintegro de los recursos transferidos, sin perjuicio del derecho de accionar judicialmente para obtener la restitución de los fondos adjudicados y entregados, entre otros, en los casos donde no se realice la iniciativa o no se efectúen las rendiciones en los plazos correspondientes.
+			Conforme lo anterior, el Gobierno Regional de Ñuble, estará facultado para interponer las acciones legales que correspondan ante los tribunales ordinarios de justicia, por el incumplimiento de lo anteriormente señalado, lo cual configurará adicionalmente la causal de inhabilitación de futuras postulaciones por un plazo de 2 años si es primera vez y 5 años en caso de ser reincidente.
+			Respecto de aquellas instituciones con situaciones pendientes en materia de rendición de cuentas, y de conformidad al artículo 18 de la Resolución N°30 del 28 de marzo de 2015 de la Contraloría General de la República, el Gobierno Regional de Ñuble remitirá los antecedentes al Consejo de Defensa del Estado con el objetivo de cautelar el correcto uso de los recursos públicos, sin perjuicio de las acciones legales que pueda entablar este servicio administrativo al respecto y sobre dicha materia.
